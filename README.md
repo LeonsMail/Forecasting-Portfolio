@@ -40,8 +40,6 @@ Visualization: Generates high-quality TIFF and SVG images for analysis.
 
 Clone the repository:
 
-git clone https://github.com/your-github-username/Forecasting-Portfolio.git
-
 Navigate to the repository folder:
 
 cd Forecasting-Portfolio
