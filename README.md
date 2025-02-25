@@ -40,9 +40,6 @@ Visualization: Generates high-quality TIFF and SVG images for analysis.
 
 Clone the repository:
 
-Navigate to the repository folder:
-
-cd Forecasting-Portfolio
 
 Open the Jupyter Notebook:
 
